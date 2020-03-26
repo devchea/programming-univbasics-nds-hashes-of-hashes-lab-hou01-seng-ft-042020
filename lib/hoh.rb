@@ -50,11 +50,11 @@ def naming_system
         sub_category: {
         label: "Order",
           sub_category: {
-          label: "family",
+          label: "Family",
             sub_category: {
-            label: "genus",
+            label: "Genus",
               sub_category: {
-              label: "species"
+              label: "Species"
               }
             }
           }
@@ -62,5 +62,5 @@ def naming_system
       }
     }
   }
-  
+
 end
